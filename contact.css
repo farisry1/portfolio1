@@ -1,0 +1,14 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.box_content{
+	background: rgba(48, 100,290,0.1);
+	margin: 50px;
+	color: #fff;
+	padding: 50px 50px;
+	font-family: sans-serif;
+	text-align:left;
+
+}

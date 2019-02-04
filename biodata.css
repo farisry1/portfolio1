@@ -1,0 +1,27 @@
+table,tr,td{
+background-color: none;
+font-family: century gothic;
+color: white;
+padding: 5px;
+border-collapse: collapse;
+}
+.h{
+background-color: rgba(48, 100,290,0.2);
+padding: 20px;
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+body{
+
+background-repeat: no-repeat;
+background-size: 1400px auto;
+}
